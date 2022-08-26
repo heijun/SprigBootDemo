@@ -1,0 +1,94 @@
+2022-08-11 at 12:13:58 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest2Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 16196 (E:\javassm\SpringBootDemo\SpringBootTest2\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 12:13:58 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 12:13:59 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 12:13:59 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 12:13:59 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+2022-08-11 at 12:13:59 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-11 at 12:14:00 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+2022-08-11 at 12:14:00 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1343 ms
+2022-08-11 at 12:14:00 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 12:14:00 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-11 at 12:14:00 CST INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started SpringBootTest2Application in 2.205 seconds (JVM running for 3.688)
+2022-08-11 at 12:14:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-11 at 12:14:05 CST INFO  org.springframework.web.servlet.FrameworkServlet 525 initServletBean - Initializing Servlet 'dispatcherServlet'
+2022-08-11 at 12:14:05 CST INFO  org.springframework.web.servlet.FrameworkServlet 547 initServletBean - Completed initialization in 2 ms
+2022-08-11 at 14:20:04 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest2Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 4348 (E:\javassm\SpringBootDemo\SpringBootTest2\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 14:20:04 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 14:20:05 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 14:20:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 14:20:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+2022-08-11 at 14:20:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-11 at 14:20:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+2022-08-11 at 14:20:05 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 868 ms
+2022-08-11 at 14:20:05 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 14:20:05 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-11 at 14:20:05 CST INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started SpringBootTest2Application in 1.535 seconds (JVM running for 2.695)
+2022-08-11 at 14:20:22 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-11 at 14:20:22 CST INFO  org.springframework.web.servlet.FrameworkServlet 525 initServletBean - Initializing Servlet 'dispatcherServlet'
+2022-08-11 at 14:20:22 CST INFO  org.springframework.web.servlet.FrameworkServlet 547 initServletBean - Completed initialization in 1 ms
+2022-08-11 at 14:41:02 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest3Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 14448 (E:\javassm\SpringBootDemo\SpringBootTest3\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 14:41:02 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 14:41:03 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 14:41:03 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 899 ms
+2022-08-11 at 14:41:03 CST WARN  org.springframework.context.support.AbstractApplicationContext 591 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-08-11 at 14:41:03 CST INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 136 logMessage - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-11 at 14:41:03 CST ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter 40 report - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-08-11 at 14:41:40 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest3Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 16164 (E:\javassm\SpringBootDemo\SpringBootTest3\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 14:41:40 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 14:41:40 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 14:41:40 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 658 ms
+2022-08-11 at 14:41:41 CST WARN  org.springframework.context.support.AbstractApplicationContext 591 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-08-11 at 14:41:41 CST INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 136 logMessage - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-11 at 14:41:41 CST ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter 40 report - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-08-11 at 14:41:57 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest3Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 3112 (E:\javassm\SpringBootDemo\SpringBootTest3\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 14:41:57 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 14:41:57 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 14:41:57 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 651 ms
+2022-08-11 at 14:41:58 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-11 at 14:41:58 CST INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started SpringBootTest3Application in 1.268 seconds (JVM running for 2.126)
+2022-08-11 at 14:42:10 CST INFO  org.springframework.web.servlet.FrameworkServlet 525 initServletBean - Initializing Servlet 'dispatcherServlet'
+2022-08-11 at 14:42:10 CST INFO  org.springframework.web.servlet.FrameworkServlet 547 initServletBean - Completed initialization in 0 ms
+2022-08-11 at 14:50:07 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting SpringBootTest3Application using Java 1.8.0_181 on DESKTOP-RPFBVR0 with PID 2372 (E:\javassm\SpringBootDemo\SpringBootTest3\target\classes started by yst in E:\javassm\SpringBootDemo\SpringBootTest1)
+2022-08-11 at 14:50:07 CST INFO  org.springframework.boot.SpringApplication 634 logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2022-08-11 at 14:50:08 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 8080 (http)
+2022-08-11 at 14:50:08 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 14:50:08 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+2022-08-11 at 14:50:08 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-11 at 14:50:08 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+2022-08-11 at 14:50:08 CST INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 292 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 684 ms
+2022-08-11 at 14:50:08 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting ProtocolHandler ["http-nio-8080"]
+2022-08-11 at 14:50:08 CST INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-11 at 14:50:08 CST INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started SpringBootTest3Application in 1.269 seconds (JVM running for 2.185)
+2022-08-11 at 14:50:20 CST INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-11 at 14:50:20 CST INFO  org.springframework.web.servlet.FrameworkServlet 525 initServletBean - Initializing Servlet 'dispatcherServlet'
+2022-08-11 at 14:50:20 CST INFO  org.springframework.web.servlet.FrameworkServlet 547 initServletBean - Completed initialization in 1 ms

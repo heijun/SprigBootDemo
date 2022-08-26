@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:mysql://localhost:3306/transactional
+  h2:
+    console:
+      enabled: true
+
+  main:
+    allow-circular-references: true
